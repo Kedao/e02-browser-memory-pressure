@@ -1,0 +1,140 @@
+[
+  {
+    "runOrder": 1,
+    "group": "B3",
+    "warmup": true,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 7775.93,
+    "proveTimeMs": 1140.53,
+    "verifyTimeMs": 286.01,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3006.86,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 2,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 425.89,
+    "proveTimeMs": 978.4,
+    "verifyTimeMs": 24.53,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3005.61,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 3,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 396.65,
+    "proveTimeMs": 1024.79,
+    "verifyTimeMs": 24.96,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3000.23,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 4,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 383.88,
+    "proveTimeMs": 1008.37,
+    "verifyTimeMs": 16.72,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3000.27,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 5,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 410.84,
+    "proveTimeMs": 959.58,
+    "verifyTimeMs": 14.69,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3000.32,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 6,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 387.49,
+    "proveTimeMs": 1006.82,
+    "verifyTimeMs": 22.53,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3000.89,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  }
+]

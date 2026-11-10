@@ -1,0 +1,48 @@
+[
+  {
+    "runOrder": 1,
+    "group": "B3",
+    "warmup": true,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 29809,
+    "proveTimeMs": 6370.54,
+    "verifyTimeMs": 386.71,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3001.33,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  },
+  {
+    "runOrder": 2,
+    "group": "B3",
+    "warmup": false,
+    "requestedThreads": 1,
+    "actualMultithreaded": null,
+    "merkleTreeDepth": 7,
+    "initTimeMs": 400.3,
+    "proveTimeMs": 1036.31,
+    "verifyTimeMs": 27.49,
+    "proofVerified": true,
+    "backendDestroyed": true,
+    "backendCooldownMs": 3000.23,
+    "cleanupError": null,
+    "error": null,
+    "env": {
+      "isSecureContext": true,
+      "crossOriginIsolated": true,
+      "sharedArrayBuffer": true,
+      "wasmSimd": true,
+      "mobile": false
+    }
+  }
+]

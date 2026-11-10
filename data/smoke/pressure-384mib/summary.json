@@ -1,0 +1,48 @@
+{
+  "browser_wall_clock_offset_ms": -0.375,
+  "host_clock_offset_range_ms": 0.0726,
+  "guard_each_edge_ms": 10.0,
+  "median_sample_interval_ms": 50.673,
+  "whole_capture": {
+    "high_events": 317,
+    "max_events": 0,
+    "oom_events": 0,
+    "oom_kill_events": 0,
+    "some_stall_us": 63583,
+    "full_stall_us": 63583
+  },
+  "proof_windows": [
+    {
+      "round": 1,
+      "warmup": true,
+      "proof_verified": true,
+      "proof_ms": 1176.62,
+      "samples": 23,
+      "leading_gap_ms": 27.182,
+      "trailing_gap_ms": 35.115,
+      "peak_sampled_mib": 384.199,
+      "high_events": 202,
+      "max_events": 0,
+      "oom_events": 0,
+      "oom_kill_events": 0,
+      "some_stall_us": 32968,
+      "full_stall_us": 32968
+    },
+    {
+      "round": 2,
+      "warmup": false,
+      "proof_verified": true,
+      "proof_ms": 1021.29,
+      "samples": 20,
+      "leading_gap_ms": 39.096,
+      "trailing_gap_ms": 18.382,
+      "peak_sampled_mib": 383.879,
+      "high_events": 53,
+      "max_events": 0,
+      "oom_events": 0,
+      "oom_kill_events": 0,
+      "some_stall_us": 12498,
+      "full_stall_us": 12498
+    }
+  ]
+}

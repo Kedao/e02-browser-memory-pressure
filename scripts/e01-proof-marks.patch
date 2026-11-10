@@ -1,0 +1,9 @@
+--- a/src/bench.ts
++++ b/src/bench.ts
+@@ -115,4 +115,6 @@
+       const t2 = performance.now();
++      performance.mark(`E02 proof ${i + 1} start`, { startTime: t2 });
+       const proof = await generateNoirProof(identity, group, 1, 1, backend);
+       const t3 = performance.now();
++      performance.mark(`E02 proof ${i + 1} end`, { startTime: t3 });
+       rec.proveTimeMs = Math.round((t3 - t2) * 100) / 100;

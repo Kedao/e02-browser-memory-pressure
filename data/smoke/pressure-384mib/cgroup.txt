@@ -1,0 +1,21 @@
+memory-high
+402653184
+
+memory-max
+max
+
+memory-peak
+403533824
+
+events-final
+low 0
+high 317
+max 0
+oom 0
+oom_kill 0
+oom_group_kill 0
+sock_throttled 52
+
+pressure-final
+some avg10=0.06 avg60=0.02 avg300=0.00 total=63583
+full avg10=0.06 avg60=0.02 avg300=0.00 total=63583

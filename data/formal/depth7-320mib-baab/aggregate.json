@@ -1,0 +1,91 @@
+{
+  "verified_including_warmups": 24,
+  "blocks": {
+    "BAAB-1-B": {
+      "count": 5,
+      "proof_median_ms": 1006.82,
+      "proof_q1_ms": 968.99,
+      "proof_q3_ms": 1016.58,
+      "proof_min_ms": 959.58,
+      "proof_max_ms": 1024.79,
+      "windows_with_high_events": 2,
+      "windows_with_full_stall": 5,
+      "full_stall_median_ms": 0.101,
+      "full_stall_total_ms": 28.262,
+      "high_events_total": 76
+    },
+    "BAAB-2-A": {
+      "count": 5,
+      "proof_median_ms": 1011.21,
+      "proof_q1_ms": 969.53,
+      "proof_q3_ms": 1025.555,
+      "proof_min_ms": 959.64,
+      "proof_max_ms": 1031.63,
+      "windows_with_high_events": 0,
+      "windows_with_full_stall": 0,
+      "full_stall_median_ms": 0.0,
+      "full_stall_total_ms": 0.0,
+      "high_events_total": 0
+    },
+    "BAAB-3-A": {
+      "count": 5,
+      "proof_median_ms": 995.98,
+      "proof_q1_ms": 978.115,
+      "proof_q3_ms": 1025.975,
+      "proof_min_ms": 971.23,
+      "proof_max_ms": 1032.06,
+      "windows_with_high_events": 0,
+      "windows_with_full_stall": 0,
+      "full_stall_median_ms": 0.0,
+      "full_stall_total_ms": 0.0,
+      "high_events_total": 0
+    },
+    "BAAB-4-B": {
+      "count": 5,
+      "proof_median_ms": 1033.54,
+      "proof_q1_ms": 1019.275,
+      "proof_q3_ms": 1098.005,
+      "proof_min_ms": 1007.39,
+      "proof_max_ms": 1117.99,
+      "windows_with_high_events": 4,
+      "windows_with_full_stall": 4,
+      "full_stall_median_ms": 14.814,
+      "full_stall_total_ms": 64.479,
+      "high_events_total": 168
+    }
+  },
+  "conditions": {
+    "A": {
+      "count": 10,
+      "proof_median_ms": 1003.595,
+      "proof_q1_ms": 979.42,
+      "proof_q3_ms": 1019.89,
+      "proof_min_ms": 959.64,
+      "proof_max_ms": 1032.06,
+      "windows_with_high_events": 0,
+      "windows_with_full_stall": 0,
+      "full_stall_median_ms": 0.0,
+      "full_stall_total_ms": 0.0,
+      "high_events_total": 0
+    },
+    "B": {
+      "count": 10,
+      "proof_median_ms": 1016.58,
+      "proof_q1_ms": 1006.82,
+      "proof_q3_ms": 1033.54,
+      "proof_min_ms": 959.58,
+      "proof_max_ms": 1117.99,
+      "windows_with_high_events": 6,
+      "windows_with_full_stall": 9,
+      "full_stall_median_ms": 10.619,
+      "full_stall_total_ms": 92.741,
+      "high_events_total": 244
+    }
+  },
+  "median_ratio_b_over_a": 1.01294,
+  "median_difference_ms": 12.985,
+  "paired_ratios_b_over_a": [
+    0.99566,
+    1.03771
+  ]
+}

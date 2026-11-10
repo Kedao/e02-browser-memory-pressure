@@ -1,0 +1,54 @@
+{
+  "timeOrigin": 0,
+  "clockOffsetMs": -0.9150390625,
+  "marks": [
+    {
+      "name": "E01 round 1 init start",
+      "startTime": 3962.495104
+    },
+    {
+      "name": "E02 proof 1 start",
+      "startTime": 10287.615104
+    },
+    {
+      "name": "E02 proof 1 end",
+      "startTime": 11426.499968
+    },
+    {
+      "name": "E01 round 1 cleanup start",
+      "startTime": 11815.570048
+    },
+    {
+      "name": "E01 round 1 cleanup done",
+      "startTime": 11818.100096
+    },
+    {
+      "name": "E01 round 1 cooldown done",
+      "startTime": 14821.755008
+    },
+    {
+      "name": "E01 round 2 init start",
+      "startTime": 14822.850176
+    },
+    {
+      "name": "E02 proof 2 start",
+      "startTime": 15213.134976
+    },
+    {
+      "name": "E02 proof 2 end",
+      "startTime": 16238.2752
+    },
+    {
+      "name": "E01 round 2 cleanup start",
+      "startTime": 16277.09504
+    },
+    {
+      "name": "E01 round 2 cleanup done",
+      "startTime": 16279.145088
+    },
+    {
+      "name": "E01 round 2 cooldown done",
+      "startTime": 19281.290112
+    }
+  ]
+}

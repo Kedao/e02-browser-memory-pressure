@@ -1,0 +1,18 @@
+{
+  "passed": false,
+  "formal_rows": 5,
+  "formal_windows_with_full_stall": 3,
+  "full_stall_us_by_formal_round": [
+    3467,
+    13108,
+    3629,
+    0,
+    0
+  ],
+  "all_verified_including_warmup": true,
+  "final_cgroup_oom_events": {
+    "oom": 0,
+    "oom_kill": 0,
+    "oom_group_kill": 0
+  }
+}

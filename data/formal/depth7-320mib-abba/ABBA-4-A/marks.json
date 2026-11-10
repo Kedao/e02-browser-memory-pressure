@@ -1,0 +1,150 @@
+{
+  "timeOrigin": 0,
+  "clockOffsetMs": -0.89013671875,
+  "marks": [
+    {
+      "name": "E01 round 1 init start",
+      "startTime": 4012.860096
+    },
+    {
+      "name": "E02 proof 1 start",
+      "startTime": 9405.354944
+    },
+    {
+      "name": "E02 proof 1 end",
+      "startTime": 10507.31488
+    },
+    {
+      "name": "E01 round 1 cleanup start",
+      "startTime": 10691.86016
+    },
+    {
+      "name": "E01 round 1 cleanup done",
+      "startTime": 10693.814976
+    },
+    {
+      "name": "E01 round 1 cooldown done",
+      "startTime": 13696.044992
+    },
+    {
+      "name": "E01 round 2 init start",
+      "startTime": 13697.060032
+    },
+    {
+      "name": "E02 proof 2 start",
+      "startTime": 14122.68512
+    },
+    {
+      "name": "E02 proof 2 end",
+      "startTime": 15138.439872
+    },
+    {
+      "name": "E01 round 2 cleanup start",
+      "startTime": 15161.860032
+    },
+    {
+      "name": "E01 round 2 cleanup done",
+      "startTime": 15163.580096
+    },
+    {
+      "name": "E01 round 2 cooldown done",
+      "startTime": 18164.880064
+    },
+    {
+      "name": "E01 round 3 init start",
+      "startTime": 18166.025152
+    },
+    {
+      "name": "E02 proof 3 start",
+      "startTime": 18565.380032
+    },
+    {
+      "name": "E02 proof 3 end",
+      "startTime": 19560.55008
+    },
+    {
+      "name": "E01 round 3 cleanup start",
+      "startTime": 19755.324864
+    },
+    {
+      "name": "E01 round 3 cleanup done",
+      "startTime": 19756.38496
+    },
+    {
+      "name": "E01 round 3 cooldown done",
+      "startTime": 22757.120192
+    },
+    {
+      "name": "E01 round 4 init start",
+      "startTime": 22758.324928
+    },
+    {
+      "name": "E02 proof 4 start",
+      "startTime": 23091.355072
+    },
+    {
+      "name": "E02 proof 4 end",
+      "startTime": 24059.545024
+    },
+    {
+      "name": "E01 round 4 cleanup start",
+      "startTime": 24430.565056
+    },
+    {
+      "name": "E01 round 4 cleanup done",
+      "startTime": 24431.865024
+    },
+    {
+      "name": "E01 round 4 cooldown done",
+      "startTime": 27433.010112
+    },
+    {
+      "name": "E01 round 5 init start",
+      "startTime": 27433.674944
+    },
+    {
+      "name": "E02 proof 5 start",
+      "startTime": 27842.015168
+    },
+    {
+      "name": "E02 proof 5 end",
+      "startTime": 28841.844928
+    },
+    {
+      "name": "E01 round 5 cleanup start",
+      "startTime": 28862.699968
+    },
+    {
+      "name": "E01 round 5 cleanup done",
+      "startTime": 28863.975104
+    },
+    {
+      "name": "E01 round 5 cooldown done",
+      "startTime": 31865.334976
+    },
+    {
+      "name": "E01 round 6 init start",
+      "startTime": 31866.529984
+    },
+    {
+      "name": "E02 proof 6 start",
+      "startTime": 32243.144896
+    },
+    {
+      "name": "E02 proof 6 end",
+      "startTime": 33293.400256
+    },
+    {
+      "name": "E01 round 6 cleanup start",
+      "startTime": 33318.46496
+    },
+    {
+      "name": "E01 round 6 cleanup done",
+      "startTime": 33320.485056
+    },
+    {
+      "name": "E01 round 6 cooldown done",
+      "startTime": 36323.339968
+    }
+  ]
+}
